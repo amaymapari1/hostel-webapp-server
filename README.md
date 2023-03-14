@@ -1,2 +1,3 @@
 # hostel-webapp-server
-website link myhostelportal.vercel.app
+website link 
+www.myhostelportal.vercel.app
